@@ -1,8 +1,6 @@
-package Java;
-
-public class Aula005 {
+public class aula005 {
     public static void main(String[] args) {
-         /*var login = "teste";
+        /*var login = "teste";
         var password = "12345";
 
         System.out.println(login + " " + password);*/
